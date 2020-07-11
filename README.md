@@ -1,1 +1,3 @@
-# week1-saturday2
+# Week 1 - Saturday 2
+
+_Second test repo, practicing pushing to github workflow_
